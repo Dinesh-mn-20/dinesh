@@ -1,1 +1,1 @@
-print("Dinesh sucker")
+print("Dinesh ")
